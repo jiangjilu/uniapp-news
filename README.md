@@ -1,16 +1,16 @@
-# uniapp-news
+# 基于 UniApp 的新闻资讯（CMS系统）
 
-## Project setup
+### 安装
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 开发
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 部署
 ```
 yarn build
 ```
